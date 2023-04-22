@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Manual Tester Resume</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+
+		h1, h2 {
+			margin: 0;
+			padding: 0;
+			text-align: center;
+		}
+
+		.header {
+			background-color: #4285F4;
+			color: #FFFFFF;
+			padding: 20px;
+			text-align: center;
+		}
+
+		.section {
+			margin-bottom: 20px;
+			padding: 20px;
+		}
+
+		.section-title {
+			margin-top: 0;
+		}
+
+		.section-body {
+			margin: 0;
+			padding: 0;
+		}
+
+		ul {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+
+		ul li {
+			margin-bottom: 10px;
+		}
+	</style>
+</head>
+<body>
+	<div class="header">
+		<h1>Manual Tester Resume</h1>
+	</div>
+
+	<div class="section">
+		<h2 class="section-title">Summary</h2>
+		<p class="section-body">
+			3+ years of experience in manual testing of web-based and mobile applications. Proficient in test case creation, execution, and defect tracking. Familiar with SDLC and Agile methodologies. Strong knowledge of software testing principles and best practices. Excellent communication and collaboration skills, with the ability to work effectively in a team environment.
+		</p>
+	</div>
+
+	<div class="section">
+		<h2 class="section-title">Skills</h2>
+		<ul class="section-body">
+			<li>Test case creation and execution</li>
+			<li>Defect tracking and reporting</li>
+			<li>Regression testing</li>
+			<li>Functional testing</li>
+			<li>Cross-browser and cross-platform testing</li>
+			<li>Mobile testing</li>
+			<li>Usability testing</li>
+			<li>SDLC and Agile methodologies</li>
+			<li>JIRA, Bugzilla, and other defect tracking tools</li>
+		</ul>
+	</div>
+	<div class="section">
+		<h2 class="section-title">Experience</h2>
+		<h3>Manual Tester, ABC Company</h3>
+		<p class="section-body"><strong>Jan 2019 - Present</strong></p>
+		<ul class="section-body">
+			<li>Collaborate with cross-functional teams to develop test plans, test cases, and test scripts</li>
+			<li>Execute test cases and report defects using JIRA</li>
+			<li>Conduct functional, regression, and usability testing on web-based and mobile applications</li>
+			<li>Participate in daily scrum meetings and provide status updates on testing progress</li>
+			<li>Ensure software quality by identifying and reporting defects in a timely manner</li>
+		</ul>
+
+		<h3>Manual Tester, XYZ Corporation</h3>
+		<p class="section-body"><strong>Apr 2017 - Dec 2018</strong></p>
+		<ul class="section-body">
+			<li>Conducted functional and regression testing on web-based applications</li>
+			<li>Created and executed test cases and reported defects using Bugzilla</li>
+<li>Participated in daily stand-up meetings and provided status updates on testing progress</li>
+<li>Collaborated with developers and other stakeholders to ensure timely resolution of defects</li>
+</ul>
+</div>
+<div class="section">
+	<h2 class="section-title">Education</h2>
+	<h3>Bachelor of Science in Computer Science, University of XYZ</h3>
+	<p class="section-body"><strong>Graduated: May 2017</strong></p>
+</div>
+
+<div class="section">
+	<h2 class="section-title">Certifications</h2>
+	<ul class="section-body">
+		<li>ISTQB Certified Tester, Foundation Level</li>
+		<li>Mobile Application Testing, Udemy</li>
+		<li>Agile Testing, Udemy</li>
+	</ul>
+</div>
+
+<div class="section">
+	<h2 class="section-title">References</h2>
+	<ul class="section-body">
+		<li>Available upon request</li>
+	</ul>
+</div>
+
